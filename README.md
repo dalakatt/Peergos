@@ -1,4 +1,79 @@
 
+menu
+
+Features
+Pricing
+Security
+Blog
+About
+Tech
+LOG IN
+SIGN UP
+Control your data.
+Control your destiny.
+Your private space online
+SIGN UP NOW
+
+
+Store your files and arrange them in folders.
+<
+>
+Private
+Secure
+Simple
+Staying safe online has never been more important. Peergos is a secure and private space where you can store, share and view your photos, videos, music and documents.
+
+Peergos secures your files with quantum-resistant end-to-end encryption and ensures all data about your files, including who you share them with, remains private.
+
+Share with confidence
+You can be sure that you're only sharing with the people you want to thanks to our cryptographic capability architecture. Sharing on Peergos is between friends only.
+
+Peergos can also create secret links to your files for you to send to friends and family who aren't yet Peergos users.
+
+Self-sovereign identity and
+multi-device access
+Your identity in Peergos is under your control and independent of any server, domain name or company. We don't tie your identity to any other data like your phone number or email address.
+
+Log in to your account from any device, and through any Peergos server. All you need is your username and your password.
+
+Reduce your
+online footprint
+Peergos doesn't monitor your online activity to sell to advertisers or other third parties and makes sure your files stay safe from unwanted intruders like web scrapers.
+
+Peergos puts you back in control of your files and your privacy. It's up to you what other people can see.
+
+Features you won't
+find anywhere else
+Quantum-resistant end-to-end encryption - your files are always protected, in transit and at rest
+Trustless architecture - your data is safe, no matter where Peergos runs
+Protected metadata - your contact list, file sizes, and directory structure can never be seen, even by us
+Decentralized storage - store and access data across several servers without a hitch
+Built to last
+Peergos is built on top of the InterPlanetary File System (IPFS), a distributed and content-addressed file system designed to be reliable, resilient and future-proof.
+
+
+Our supporters
+  
+We're proud to be supported by exciting world-class organizations such as the Next Generation Internet Program for Open Internet Renovation (NGI-POINTER), Protocol Labs and the Oxford Foundry at the University of Oxford.
+
+NGI POINTER (NGI Program for Open Internet Renovation) has received funding from the European Commission, as part of the Horizon 2020 Research and Innovation Programme, under Grant Agreement No. 871528.
+
+Open and
+transparent
+There's no security in obscurity, so we're committed to keeping everything we do open and transparent. Peergos is an open-source project and all our code is available to be independently verified for vulnerabilities, including our server-side source. We've been audited by Cure53 and you can read their report here.
+
+Want to see more? Check out our GitHub repo here.
+
+
+About Us
+Tech book
+About
+Contact
+FAQ
+Community
+   
+© PEERGOS | Designed by Eamonn Maguire.
+
 
 <img src="https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:OpenSourceProjects_Peergos_Build)/statusIcon"></a>
 
